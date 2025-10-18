@@ -6,14 +6,14 @@ A comprehensive console-based Car Rental Management System built with Java and O
 
 # 🚀 Features :-
 
-✅ 🏢 **Car Management** - Add and manage car inventory
+✅ 🏢 **Car Management** -> Add and manage car inventory.
 
-✅ 👥 **Customer Management** - Register and track customers
+✅ 👥 **Customer Management** -> Register and track customers.
 
-✅ 📅 **Rental System** - Complete rental process with pricing
+✅ 📅 **Rental System** -> Complete rental process with pricing.
 
-✅ 💰**Dynamic Pricing** - Calculate rental costs based on duration
+✅ 💰**Dynamic Pricing** -> Calculate rental costs based on duration.
 
-✅ 🔍 **Availability Tracking** - Real-time car availability status
+✅ 🔍 **Availability Tracking** -> Real-time car availability status..
 
-✅ 📊 **Rental History** - Track ongoing and completed rentals
+✅ 📊 **Rental History** -> Track ongoing and completed rentals.
