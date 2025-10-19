@@ -38,4 +38,7 @@ A comprehensive console-based Car Rental Management System built with Java and O
 | **Documentation** | Markdown (README.md) |
 | **Visualization (Optional)** | Draw.io / Lucidchart (for UML diagrams) |
 
+# 👤 AUTHOR :-
+Prakash Kumar (Onlyprakash)  GitHub Profile: 👉 https://github.com/Onlyprakash
+
 
