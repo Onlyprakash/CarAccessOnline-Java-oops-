@@ -1,4 +1,4 @@
-# 🚗 CarAccessOnline <img width="512" height="512" alt="6296191" src="https://github.com/user-attachments/assets/aade5af3-fb10-43ee-a3e2-c975b14b3fb1" />
+# 🚗 CarAccessOnline <img width="48" height="48" alt="6296191" src="https://github.com/user-attachments/assets/aade5af3-fb10-43ee-a3e2-c975b14b3fb1" />
 
 # 📋 Project Overview :-
 
